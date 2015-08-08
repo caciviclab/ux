@@ -1,0 +1,27 @@
+/* 
+	API endpoint:
+	/agency/:id/election/:date
+*/
+
+{
+	"agency_id": 1,									// int
+	"agency_name": "agency_name",					// string
+	"election": "date",								// string
+	"by_source": {
+		"candidate": 100.0, 						// float
+		"self_funded": 100.0,						// float
+		"independent_expenditures": 100.0			// float
+	},
+	"by_geography": {
+		"local": 100.0,								// float
+		"in_state": 100.0,							// float
+		"out_state": 100.0							// float
+	},
+	"races": [
+		{
+			"race_id": 1, 							// int
+			"race_type": "type of race",			// string, optional, e.g: "City Council"
+			"race_name": "race_name"				// string, e.g: "District 1"
+		}
+	]
+}

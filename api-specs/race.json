@@ -1,0 +1,51 @@
+/* 
+	API endpoint:
+	/agency/:id/election/:date/race/:id/
+*/
+{
+	"agency_id": 1,									// int
+	"agency_name": "agency_name",					// string
+	"election": "date",								// string
+	"race_id": 1,									// int
+	"race_type": "type of race",					// string, optional, e.g: "City Council"
+	"race_name": "race_name",						// string, e.g: "District 1"
+	"candidates": [
+		{
+			"f_name": "First Name",					// string
+			"l_name": "Last Name",					// string
+			"total_contributions": 100.0, 			// float
+			"by_committee_type": {
+				"candidate_committee": 100.0, 		// float
+				"independent_expenditures": 100.0	// float
+			},
+			"by_donor_type": {
+				"individual": 100.0,				// float
+				"recipient_committee": 100.0,		// float
+				"other": 100.0,						// float
+				"political_party": 100.0,			// float
+				"small_contributor_committee": 100.0	// float
+			},
+			"by_geography": {
+				"local": 100.0,						// float
+				"in_metro": 100.0,					// float
+				"out_metro": 100.0					// float
+			}
+		}
+	],
+	"by_committee_type": {
+		"candidate_committee": 100.0, 		// float
+		"independent_expenditures": 100.0	// float
+	},
+	"by_donor_type": {
+		"individual": 100.0,				// float
+		"recipient_committee": 100.0,		// float
+		"other": 100.0,						// float
+		"political_party": 100.0,			// float
+		"small_contributor_committee": 100.0	// float
+	},
+	"by_geography": {
+		"local": 100.0,						// float
+		"in_metro": 100.0,					// float
+		"out_metro": 100.0					// float
+	}
+}

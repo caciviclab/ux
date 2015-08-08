@@ -1,0 +1,68 @@
+{
+	"agency_id": 1,
+	"agency_name": "City of Oakland",
+	"election": "2015-11-03",
+	"race_id": 1,
+	"race_type": "City Council",
+	"race_name": "District 1",
+	"candidates": [
+		{
+			"f_name": "Abel",
+			"l_name": "Guillen",
+			"total_contributions": 421267.0,
+			"by_committee_type": {
+				"candidate_committee": 300000.0,
+				"independent_expenditures": 121267.0
+			},
+			"by_donor_type": {
+				"individual": 294886.9,
+				"recipient_committee": 126380.1,
+				"other": 0.0,
+				"political_party": 0.0,
+				"small_contributor_committee": 0.0
+			},
+			"by_geography": {
+				"local": 252760.2,
+				"in_metro": 105316.75,
+				"out_metro": 63190.05
+			}
+		},
+		{
+			"f_name": "Joanne",
+			"l_name": "Smitherson-Johannesburg",
+			"total_contributions": 188839.0,
+			"by_committee_type": {
+				"candidate_committee": 151071.2,
+				"independent_expenditures": 37767.8
+			},
+			"by_donor_type": {
+				"individual": 141629.25,
+				"recipient_committee": 94419.5,
+				"other": 18883.9,
+				"political_party": 18883.9,
+				"small_contributor_committee": 0.0
+			},
+			"by_geography": {
+				"local": 37767.8,
+				"in_metro": 18883.9,
+				"out_metro": 132187.3
+			}
+		}
+	],
+	"by_committee_type": {
+		"candidate_committee": 451071.2,
+		"independent_expenditures": 159034.8
+	},
+	"by_donor_type": {
+		"individual": 436516.15,
+		"recipient_committee": 220799.6,
+		"other": 18883.9,
+		"political_party": 18883.9,
+		"small_contributor_committee": 100.0
+	},
+	"by_geography": {
+		"local": 290528,
+		"in_metro": 124200.65,
+		"out_metro": 195377.35
+	}
+}
