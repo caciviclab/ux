@@ -14,8 +14,8 @@
 	},
 	"by_geography": {
 		"local": 100.0,								// float
-		"in_state": 100.0,							// float
-		"out_state": 100.0							// float
+		"in_metro": 100.0,							// float
+		"out_metro": 100.0							// float
 	},
 	"races": [
 		{
