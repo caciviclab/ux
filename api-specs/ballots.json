@@ -1,0 +1,58 @@
+/* 
+	API endpoint:
+	/agency/:id/election/:date/ballot/:id/
+*/
+{
+	"agency_id": 1,									// int
+	"agency_name": "agency_name",					// string
+	"election": "date",								// string
+	"ballot_id": 1,									// int
+	"ballot_short_name": "short name for ballot",	// string, e.g: "Proposition A"
+	"ballot_long_name": "full official title",		// string, e.g: "San Francisco Transportation and Road Improvement Bond"
+	"ballot_supporters" :[
+		{
+			"committee_name": "Committee Name",		// string
+			"total_contributions": 100.0, 			// float
+			"by_committee_type": {
+				"candidate_committee": 100.0, 		// float
+				"independent_expenditures": 100.0	// float
+			},
+			"by_donor_type": {
+				"individual": 100.0,				// float
+				"recipient_committee": 100.0,		// float
+				"other": 100.0,						// float
+				"political_party": 100.0,			// float
+				"small_contributor_committee": 100.0	// float
+			},
+			"by_geography": {
+				"local": 100.0,						// float
+				"in_metro": 100.0,					// float
+				"out_metro": 100.0					// float
+			}
+		}
+
+	],
+	"ballot_opponents":[
+				{
+			"committee_name": "Committee Name",		// string
+			"total_contributions": 100.0, 			// float
+			"by_committee_type": {
+				"candidate_committee": 100.0, 		// float
+				"independent_expenditures": 100.0	// float
+			},
+			"by_donor_type": {
+				"individual": 100.0,				// float
+				"recipient_committee": 100.0,		// float
+				"other": 100.0,						// float
+				"political_party": 100.0,			// float
+				"small_contributor_committee": 100.0	// float
+			},
+			"by_geography": {
+				"local": 100.0,						// float
+				"in_metro": 100.0,					// float
+				"out_metro": 100.0					// float
+			}
+		}
+
+	]
+}

@@ -23,5 +23,12 @@
 			"race_type": "type of race",			// string, optional, e.g: "City Council"
 			"race_name": "race_name"				// string, e.g: "District 1"
 		}
+	], 
+	"ballots": [
+		{
+			"ballot_id": 1,									// int
+			"ballot_short_name": "short name for ballot",	// string, e.g: "Proposition A"
+			"ballot_long_name": "full official title",		// string, e.g: "San Francisco Transportation and Road Improvement Bond"
+		}
 	]
 }
