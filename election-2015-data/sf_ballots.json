@@ -1,0 +1,217 @@
+[
+	{
+		"ballot_short_name": "Measure A", 
+		"ballot_long_name": "Affordable Housing Bond", 
+		"ballot_supporters":[
+						{
+							"filer_name": "SF Housing Now, Yes on A", 
+							"filer_id": 1378086
+						}
+
+		], 
+		"ballot_opponents":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		]
+
+	},
+	{
+		"ballot_short_name": "Measure B", 
+		"ballot_long_name": "Paid Parental Leave for City Employee", 
+		"ballot_supporters":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		], 
+		"ballot_opponents":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		]
+
+	},
+	{
+		"ballot_short_name": "Measure C", 
+		"ballot_long_name": "Expenditure Lobbyists", 
+		"ballot_supporters":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		], 
+		"ballot_opponents":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		]
+
+	},
+	{
+		"ballot_short_name": "Measure D", 
+		"ballot_long_name": "Mission Rock", 
+		"ballot_supporters":[
+						{
+							"filer_name": "San Franciscans for Affordable Housing, Jobs & Parks, a coalition of the San Francisco Giants, Mission Bay Residents, Labor and Small Business Leaders,     Yes on the Mission Rock Initiative", 
+							"filer_id": 1377448
+						}
+
+		], 
+		"ballot_opponents":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		]
+
+	},
+	{
+		"ballot_short_name": "Measure E", 
+		"ballot_long_name": "Requirements for Public Meetings", 
+		"ballot_supporters":[
+						{
+							"filer_name": "San Franciscans for Open Government 2015 sponsored by the Chinese American Voters Education Committee", 
+							"filer_id": 1377185
+						}
+
+		], 
+		"ballot_opponents":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		]
+
+	},
+	{
+		"ballot_short_name": "Measure F", 
+		"ballot_long_name": "Short-Term Residential Rentals", 
+		"ballot_supporters":[
+						{
+							"filer_name": "San Franciscans for Neighborhoods, Affordable Housing & Jobs", 
+							"filer_id": 1367243
+						}
+
+		], 
+		"ballot_opponents":[
+						
+						{
+							"filer_name": "SF for Everyone, No on the Homesharing Ban, Sponsored and Major Funding by Airbnb", 
+							"filer_id": 1378051
+						}
+
+		]
+
+	},
+	{
+		"ballot_short_name": "Measure G", 
+		"ballot_long_name": "Disclosures Regarding Renewable Energy", 
+		"ballot_supporters":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		], 
+		"ballot_opponents":[
+						{
+							"filer_name": "San Franciscans for Clean Power, Yes on H, No on G, supported by London Breed", 
+							"filer_id": 1380208
+						}
+
+		]
+
+	},
+	{
+		"ballot_short_name": "Measure H", 
+		"ballot_long_name": "Defining Clean, Green and Renewable Energy", 
+		"ballot_supporters":[
+						{
+							"filer_name": "Truth in Energy, Yes on H, Major Funding by International Brotherhood of Electrical Workers Local 1245", 
+							"filer_id": 1378084
+						}, 
+						{
+							"filer_name": "San Franciscans for Clean Power, Yes on H, No on G, supported by London Breed", 
+							"filer_id": 1380208
+						}
+
+		], 
+		"ballot_opponents":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		]
+
+	},
+	{
+		"ballot_short_name": "Measure I", 
+		"ballot_long_name": "Suspension of Market-Rate Development in Mission District", 
+		"ballot_supporters":[
+						{
+							"filer_name": "Committee to Save the Mission, Yes on Prop. I, Sponsored by a Coalition of Mission Neighborhood Organizations", 
+							"filer_id": 1378138
+						}
+
+		], 
+		"ballot_opponents":[
+						{
+							"filer_name": "San Franciscans for Real Housing Solutions, Sponsored by the San Francisco Association of Realtors and San Francisco Alliance for Jobs and Sustainable Growth", 
+							"filer_id": 1374554
+						}
+
+		]
+
+	},
+	{
+		"ballot_short_name": "Measure J", 
+		"ballot_long_name": "Legacy Business Historic Preservation Fund", 
+		"ballot_supporters":[
+						{
+							"filer_name": "Yes on J - San Franciscans for Preserving Legacy Businesses", 
+							"filer_id": 1378390
+						}
+
+		], 
+		"ballot_opponents":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		]
+
+	},
+	{
+		"ballot_short_name": "Measure K", 
+		"ballot_long_name": "Surplus Public Lands", 
+		"ballot_supporters":[
+						{
+							"filer_name": "Surplus Lands for Public Use, A Committee in Support of Proposition K", 
+							"filer_id": 1378277
+						}
+
+		], 
+		"ballot_opponents":[
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+		]
+
+	}
+
+]

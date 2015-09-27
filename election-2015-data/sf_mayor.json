@@ -1,0 +1,98 @@
+{
+	"race":"Mayor", 
+	"id": 1, 
+	"candidates": [
+				{
+					"f_name": "Francisco", 
+					"l_name": "Herrera", 
+					"cc_committee": [
+						{
+							"filer_name": "Francisco Herrera 4 SF Mayor 2015", 
+							"filer_id": 1377854
+						}
+
+					],
+					"ie_committee": [
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+					],  
+				},
+				{
+					"f_name": "Ed", 
+					"l_name": "Lee", 
+					"cc_committee": [
+						{
+							"filer_name": "Ed Lee for Mayor 2015", 
+							"filer_id": 1373497
+						}
+
+					],
+					"ie_committee": [
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+					],  
+				},
+				{
+					"f_name": "Amy Farah", 
+					"l_name": "Weiss", 
+					"cc_committee": [
+						{
+							"filer_name": "(YIMBY) WEISS for Mayor 2015", 
+							"filer_id": 1374629
+						}
+
+					],
+					"ie_committee": [
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+					],  
+				}, 
+				{
+					"f_name": "Kent", 
+					"l_name": "Graham", 
+					"cc_committee": [
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+					],
+					"ie_committee": [
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+					],  
+				}, 
+				{
+					"f_name": "Stuart", 
+					"l_name": "Schuffman", 
+					"cc_committee": [
+						{
+							"filer_name": "Stuart Schuffman for Mayor 2015", 
+							"filer_id": 1377997
+						}
+
+					],
+					"ie_committee": [
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+					],  
+				}  
+
+
+	]
+}
