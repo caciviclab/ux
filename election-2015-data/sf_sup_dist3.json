@@ -1,0 +1,63 @@
+{
+	"race_type": "Supervisor",
+	"race":"District 3", 
+	"id": 3, 
+	"candidates": [
+				{
+					"f_name": "Aaron", 
+					"l_name": "Peskin", 
+					"cc_committee": [
+						{
+							"filer_name": "Aaron Peskin for Supervisor 2015", 
+							"filer_id": 1376394
+						}
+
+					],
+					"ie_committee": [
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+					],  
+				},
+				{
+					"f_name": "Wilma", 
+					"l_name": "Pang", 
+					"cc_committee": [
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+					],
+					"ie_committee": [
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+					],  
+				},
+				{
+					"f_name": "Julie", 
+					"l_name": "Christensen", 
+					"cc_committee": [
+						{
+							"filer_name": "Christensen for Supervisor 2015", 
+							"filer_id": 1374912
+						}
+
+					],
+					"ie_committee": [
+						{
+							"filer_name": "", 
+							"filer_id": 
+						}
+
+					],  
+				}  
+
+
+	]
+}
